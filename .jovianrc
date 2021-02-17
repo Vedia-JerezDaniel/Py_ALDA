@@ -2,6 +2,9 @@
   "notebooks": {
     "Binary-search-assignment.ipynb": {
       "slug": "5707cd653d364efdbb926729c0377dc6"
+    },
+    "Hash-tables-assignment.ipynb": {
+      "slug": "d59d52afa621432887362cdff90045b2"
     }
   }
 }
