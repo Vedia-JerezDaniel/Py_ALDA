@@ -192,7 +192,7 @@ z = np.polyfit(N,time_01,2)
 p = np.poly1d(z)
 xp = np.linspace(0, 20)
 
-plt.plot(N, time_01, '.', xp, p(xp),'-b', label='O(nÂ²)')
+plt.plot(N, time_01, '.', xp, p(xp),'-b', label='O(n²)')
 # plt.plot(N, time_0, '-g', label='O(n)')
 plt.title("Time complexity")
 plt.legend();
